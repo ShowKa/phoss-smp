@@ -31,3 +31,6 @@ target/
 pom.xml.releaseBackup
 release.properties
 zz
+
+# MAC
+.DS_Store
